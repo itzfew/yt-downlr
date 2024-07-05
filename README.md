@@ -32,11 +32,11 @@ Set up YTDLX on your machine:
 
 1. Clone the repository: 
 ```bash
-git clone https://github.com/abubakar-shaikh-dev/ytdlx.git
+git clone https://github.com/yashg0808/yt-downlr.git
 ```
 2. Navigate to the project:
 ```bash
-cd ytdlx
+cd yt-downlr
 ```
 3. Install dependencies:
 ```bash
