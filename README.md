@@ -55,7 +55,7 @@ YTDLX will be available at `http://localhost:3000`.
 
 ## Demo
 
-Experience YTDLX through the live demo: [YTDLX Demo](https://ytdlx.vercel.app/)
+<!-- Experience YTDLX through the live demo: [YTDLX Demo](https://ytdlx.vercel.app/) -->
 
 ## Contact
 
