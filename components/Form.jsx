@@ -32,8 +32,8 @@ export default function Form({fetchData}) {
         <button
           className={`${
             loading
-              ? " bg-black/80 hover:bg-black/80 cursor-not-allowed"
-              : "bg-red-700 hover:bg-red-600"
+              ? " bg-red-400 hover:bg-red-400 cursor-not-allowed"
+              : "bg-red-600 hover:bg-red-500"
           }
               flex gap-2 items-center justify-center rounded-md  px-5 py-2.5 text-sm font-semibold text-white shadow-sm  focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black w-full sm:w-auto`}
           type="submit"
