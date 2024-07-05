@@ -1,5 +1,7 @@
 # YTDLX - Xery YouTube Downloader
 
+![image](https://github.com/yashg0808/yt-downlr/assets/115030686/af06ef92-2555-40f1-9fbf-05919ccecba4)
+
 Welcome to YTDLX, a YouTube downloader website built using Next.js 13 and powered by Rapid API. Download your favorite YouTube videos and enjoy them offline.
 
 ## Table of Contents
