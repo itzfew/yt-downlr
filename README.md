@@ -1,4 +1,4 @@
-# YTDLX - Xery YouTube Downloader
+# YTDLX - YouTube Downloader
 
 ![image](https://github.com/yashg0808/yt-downlr/assets/115030686/af06ef92-2555-40f1-9fbf-05919ccecba4)
 
