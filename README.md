@@ -57,7 +57,7 @@ YT Dwnlr will be available at `http://localhost:3000`.
 
 ## Demo
 
-Experience YT Dwnlr through the live demo: [YT Dwnlr Demo](yt-downlr.vercel.app/)
+Experience YT Dwnlr through the live demo: [YT Dwnlr Demo](https://yt-downlr.vercel.app/)
 
 ## Contact
 
