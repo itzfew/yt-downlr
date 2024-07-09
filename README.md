@@ -53,7 +53,7 @@ NEXT_PUBLIC_RAPIDAPI_KEY=your-rapid-api-key
 npm run dev
 ```
 
-YTDLX will be available at `http://localhost:3000`.
+YT Dwnlr will be available at `http://localhost:3000`.
 
 ## Demo
 
